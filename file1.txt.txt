@@ -1,0 +1,16 @@
+This is related to git local file.
+
+
+echo "# RemoteRepo5Nov" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/malayparikh/RemoteRepo5Nov.git
+git push -u origin mainecho "# RemoteRepo5Nov" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/malayparikh/RemoteRepo5Nov.git
+git push -u origin main
